@@ -2,8 +2,6 @@ Autor: Bartłomiej Węgrzyn
 
 Repozytorium przedstawia 3 moduły składające się na moją pracę inżynierską pt. "Wykorzystanie metod analizy obrazu na przykładzie detekcji kart do gry". 
 
-Pliki podzieliłem na te z rozszerzeniem .html oraz .ipynb (prezentują one tą samą treść).
-
 ### 1_cards_dataset_generator
 Ten moduł odpowiada za wygenerowanie scen (obrazów) z kartami w różnych pozycjach, które zostaną wykorzystane podczas trenowania sieci neuronowej.
 
@@ -13,6 +11,8 @@ Przedstawienie procesu uczenia modeli na wygenerowanych danych oraz porównanie 
 ### 3_mobile_app
 Omówienie budowy interfejsu i funkcjonalności aplikacji mobilnej.
 
+
+Pliki podzieliłem na te z rozszerzeniem .html oraz .ipynb (prezentują one tą samą treść).
 
 ## Linki
 Poniżej linki do uruchomienia plików html w githubie:
