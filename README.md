@@ -4,14 +4,14 @@ Repozytorium przedstawia 3 moduły składające się na moją pracę inżyniersk
 
 Pliki podzieliłem na te z rozszerzeniem .html oraz .ipynb (prezentują one tą samą treść).
 
-### 1
-test
+### 1_cards_dataset_generator
+Ten moduł odpowiada za wygenerowanie scen (obrazów) z kartami w różnych pozycjach, które zostaną wykorzystane podczas trenowania sieci neuronowej.
 
-### 2
-test
+### 2_yolov8_models
+Przedstawienie procesu uczenia modeli na wygenerowanych danych oraz porównanie dokładności modeli, wraz z próbą selekcji najlepszego z nich.
 
-### 3
-test
+### 3_mobile_app
+Omówienie budowy interfejsu i funkcjonalności aplikacji mobilnej.
 
 
 ## Linki
