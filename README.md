@@ -1,6 +1,17 @@
+Autor: Bartłomiej Węgrzyn
+
 Repozytorium przedstawia 3 moduły składające się na moją pracę inżynierską pt. "Wykorzystanie metod analizy obrazu na przykładzie detekcji kart do gry". 
 
-Pliki podzieliłem na te z rozszerzeniem .html oraz .ipynb.
+Pliki podzieliłem na te z rozszerzeniem .html oraz .ipynb (prezentują one tą samą treść).
+
+### 1
+test
+
+### 2
+test
+
+### 3
+test
 
 
 ## Linki
